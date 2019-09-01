@@ -1,0 +1,38 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.donghua",
+            "nativeLanguage": "zh-cn"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "university",
+        "packageName": "com.donghua",
+        "packageFolder": "com/donghua",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": false,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "mysql",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "YzliYmYxNDNlMGM5YjcyZGYxNWUzODBhZTdkM2FlNjAxOWQzMTU3NDQ4MDgzZTk4MTNiNjM5ZTFkODQ1NDZkYjNmNDFiZmYxOTNlZmJiYzE4ZjJmMDY1ZDM4ZjY5MGZkZGZhYzA5YzU0YTQ3MzZlMTU0ZTE4ZjQ5YzY1YTYyNTA=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "zh-cn",
+        "languages": ["zh-cn"]
+    }
+}
